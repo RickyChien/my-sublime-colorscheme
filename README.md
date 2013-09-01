@@ -1,4 +1,4 @@
-My sublime text color scheme
+Sublime text settings
 ============================
 
-:)
+My sublime text settings and colorscheme.
