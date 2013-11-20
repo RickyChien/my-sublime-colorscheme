@@ -1,8 +1,12 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Ricky/Harp-Simple.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	//"font_face": "Ubuntu Mono", for Ubuntu
+	//"font_face": "Source Code Pro", for Mac & Windows
+	"font_size": 12,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -11,6 +15,5 @@
 	"line_padding_top": 1,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
-	"ensure_newline_at_eof_on_save": true
+	"vintage_start_in_command_mode": true
 }
