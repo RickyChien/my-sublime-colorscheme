@@ -1,9 +1,9 @@
 {
 	"bold_folder_labels": true,
-	"caret_style": "phase",
+	"caret_style": "wide",
 	"color_scheme": "Packages/Color Scheme - Ricky/Harp-Simple.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	//"font_face": "Ubuntu Mono", for Ubuntu
+	//"font_face": "Source Code Pro Semibold", for Ubuntu
 	//"font_face": "Source Code Pro", for Mac & Windows
 	"font_size": 12,
 	"highlight_line": true,
