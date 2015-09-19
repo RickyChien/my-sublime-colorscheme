@@ -1,20 +1,21 @@
 {
+  "Seti_SB_bright": true,
+  "Seti_sb_small_padding": true,
+  "Seti_sb_tree_small": true,
   "Seti_tabs_small": true,
   "bold_folder_labels": true,
   "caret_extra_width": 1,
   "color_scheme": "Packages/User/LastNight.tmTheme",
   "ensure_newline_at_eof_on_save": true,
   "findreplace_small": true,
-  "font_face": "DejaVu Sans Mono for Powerline for Powerline",
+  "font_face": "Monaco",
   "font_size": 13,
-  "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
   [
     "JavaScript",
     "vintage"
   ],
-  "line_padding_bottom": 1,
   "line_padding_top": 1,
   "rulers":
   [
@@ -24,5 +25,8 @@
   "sidebar_small": true,
   "tab_size": 2,
   "tabs_small": true,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
   "vintage_start_in_command_mode": true
 }
