@@ -34,6 +34,8 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 				<string>#282A2E</string>
 				<key>selection</key>
 				<string>#373B41</string>
+				<key>gutterForeground</key>
+				<string>#9f9a87</string>
 			</dict>
 		</dict>
 		<dict>
@@ -366,7 +368,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
   <key>settings</key>
   <dict>
     <key>foreground</key>
-    <string>#A6E22E</string>
+    <string>#A2BD09</string>
   </dict>
 </dict>
 <dict>
@@ -377,7 +379,7 @@ Find more themes at : https://github.com/daylerees/colour-schemes
   <key>settings</key>
   <dict>
     <key>foreground</key>
-    <string>#967EFB</string>
+    <string>#FFBE8F</string>
   </dict>
 </dict>
 <dict>
@@ -405,5 +407,44 @@ Find more themes at : https://github.com/daylerees/colour-schemes
 	</array>
 	<key>uuid</key>
 	<string>F96224DB-1A60-4617-92F3-D24D4F13DB09</string>
+</dict>
+<dict>
+	<key>name</key>
+	<string>TODO</string>
+	<key>scope</key>
+	<string>annotation.todo</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>bold</string>
+		<key>foreground</key>
+		<string>#C42F0E</string>
+	</dict>
+</dict>
+<dict>
+	<key>name</key>
+	<string>NOTE</string>
+	<key>scope</key>
+	<string>annotation.note</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>bold</string>
+		<key>foreground</key>
+		<string>#008900</string>
+	</dict>
+</dict>
+<dict>
+	<key>name</key>
+	<string>IMPORTANT</string>
+	<key>scope</key>
+	<string>annotation.important</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>bold</string>
+		<key>foreground</key>
+		<string>#CFC927</string>
+	</dict>
 </dict>
 </plist>
